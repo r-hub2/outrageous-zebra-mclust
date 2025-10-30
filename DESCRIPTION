@@ -29,7 +29,7 @@ ByteCompile: true
 NeedsCompilation: yes
 LazyData: yes
 Encoding: UTF-8
-Packaged: 2025-10-30 17:19:46 UTC; luca
+Packaged: 2025-10-30 19:18:10 UTC; luca
 Author: Chris Fraley [aut],
   Adrian E. Raftery [aut] (ORCID:
     <https://orcid.org/0000-0002-6589-301X>),
